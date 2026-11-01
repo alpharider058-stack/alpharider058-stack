@@ -28,9 +28,9 @@ Diseño y desarrollo sitios web de alto rendimiento, aplicaciones web (SPA/PWA) 
 
 | Proyecto | Tipo de Solución | Tecnologías | Demo en Vivo |
 | :--- | :--- | :--- | :--- |
-| **[Nombre Proyecto 1]** | Web corporativa con reservas para negocio local | Next.js, Tailwind CSS | [🔗 Ver Web](https://tu-enlace.vercel.app) |
-| **[Nombre Proyecto 2]** | Configurador 3D interactivo de producto | Three.js, GSAP, JS | [🔗 Ver Demo](https://tu-enlace.vercel.app) |
-| **[Nombre Proyecto 3]** | PWA de gestión y seguimiento con interfaz limpia | HTML/CSS/JS, LocalStorage | [🔗 Ver App](https://tu-enlace.vercel.app) |
+| **[Inmobiliaria]** | Web de inmobiliaria ficticia | Next.js, Tailwind CSS, HTML | [🔗 Ver Web](https://alpha-inmobiliaria.vercel.app/) |
+| **[Barberia]** | Configurador 3D interactivo de producto | Three.js, CSS/HTML | [🔗 Ver Demo](https://barberia-2.vercel.app/) |
+| **[Pizzeria]** | PWA de gestión y seguimiento con interfaz limpia | HTML/CSS/JS, Video-Scroll | [🔗 Ver App](https://pizzeria-alpha-one.vercel.app/) |
 
 ---
 
@@ -39,5 +39,4 @@ Diseño y desarrollo sitios web de alto rendimiento, aplicaciones web (SPA/PWA) 
 Estoy disponible para nuevos proyectos freelance y colaboraciones.
 
 * 🌐 **Portfolio Web:** [pablosantiago.dev](https://tu-enlace.vercel.app)
-* ✉️ **Email:** [tu-email@dominio.com](mailto:tu-email@dominio.com)
-* 💼 **LinkedIn / Contacto directo:** [Tu Enlace]
+* ✉️ **Email:** [ps701702@gmail.com](mailto:ps701702@gmail.com)
